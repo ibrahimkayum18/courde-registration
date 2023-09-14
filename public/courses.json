@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "intro to programming",
+        "details": "basic programming concepts",
+        "price": 99.99,
+        "credit_hours": 3,
+        "img": "https://ibb.co/FYq17fs"
+    },
+    {
+        "id": 2,
+        "name": "advanced mathematics",
+        "details": "higher-level math topics",
+        "price": 149.99,
+        "credit_hours": 4,
+        "img": "https://ibb.co/QY8RgBb"
+    },
+    {
+        "id": 3,
+        "name": "english composition",
+        "details": "improve writing skills",
+        "price": 79.99,
+        "credit_hours": 3,
+        "img": "https://ibb.co/4P7D23D"
+    },
+    {
+        "id": 4,
+        "name": "history of art",
+        "details": "exploring art through the ages",
+        "price": 119.99,
+        "credit_hours": 3,
+        "img": "https://ibb.co/C8mqK2X"
+    },
+    {
+        "id": 5,
+        "name": "chemistry fundamentals",
+        "details": "basic chemistry principles",
+        "price": 129.99,
+        "credit_hours": 4,
+        "img": "https://ibb.co/Xb9W6T0"
+    },
+    {
+        "id": 6,
+        "name": "web development basics",
+        "details": "building websites from scratch",
+        "price": 89.99,
+        "credit_hours": 3,
+        "img": "https://ibb.co/jZWNNFG"
+    },
+    {
+        "id": 7,
+        "name": "business management",
+        "details": "fundamentals of business administration",
+        "price": 159.99,
+        "credit_hours": 4,
+        "img": "https://ibb.co/r7xkFqb"
+    },
+    {
+        "id": 8,
+        "name": "digital marketing",
+        "details": "strategies for online promotion",
+        "price": 119.99,
+        "credit_hours": 3,
+        "img": "https://ibb.co/J3vm32q"
+    },
+    {
+        "id": 9,
+        "name": "physics for beginners",
+        "details": "basic principles of physics",
+        "price": 99.99,
+        "credit_hours": 3,
+        "img": "https://ibb.co/rZXWp1D"
+    }
+]
