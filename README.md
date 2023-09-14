@@ -1,8 +1,13 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project Features
 
-Currently, two official plugins are available:
+- All carts added using API 
+- You can select only one course at a time
+- You can select multiple different courses 
+- You can see the total budget of the courses you selected
+- You can't select any course after credit hours exceed 20 hours or remaining credit hours below 0 hours.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Implementation
+
+- First I added cart from a JSON data. There is a button called "select", in this button I've added an event handler which is responsible for adding the courses and show the remaining time, total time and total cost of the selected courses.
