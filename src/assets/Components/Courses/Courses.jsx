@@ -2,7 +2,6 @@ import { useEffect } from "react";
 import { useState } from "react";
 import Course from "../Course/Course";
 import Selected from "../Selected/Selected";
-// import Selected from "../Selected/Selected";
 
 const Courses = () => {
 
@@ -34,7 +33,7 @@ const Courses = () => {
             remainingTime = 20 - totalHour;
 
             if(remainingTime < 0 && totalHour > 20){
-                return alert('Your credit hour exceed 20hr ad remaining credit hour below 0hr')
+                return alert('Your credit hour exceed 20hr and remaining credit hour below 0hr')
             }
             else{
                 setRemaining(remainingTime)
@@ -51,7 +50,7 @@ const Courses = () => {
 
     // console.log(totalCourses);
     return (
-        <div className="flex gap-5 justify-between">
+        <div className="flex gap-4 justify-between">
             <div className="w-9/12 grid md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {/* <h2>Course: {totalCourses.length} </h2> */}
                 {
@@ -62,10 +61,11 @@ const Courses = () => {
                         ></Course>)
                 }
             </div>
-            <div className="w-3/12">
-                <h2>Credit Hour Remaining {remaining}</h2>
-                <h2>Course Name</h2>
-                <ol>
+            <div className="w-3/12  ">
+                <div className="bg-white rounded-lg p-5">
+                <h2 className="text-blue-700 font-bold text-[18px] border-b-2 pb-3">Credit Hour Remaining {remaining} hr</h2>
+                <h2 className="text-2xl font-bold pt-3">Course Name</h2>
+                <ol className="ml-5 text-gray-600 font-semibold space-y-2 mb-4">
                     {
                         selectedCourse.map(course => <Selected
                         key={course.id}
@@ -73,8 +73,9 @@ const Courses = () => {
                         ></Selected>)
                     }
                 </ol>
-                <h2>Total Credit Hour: {totalHour}</h2>
-                <h2>Total Price: {cost}USD</h2>
+                <h2 className="text-[18px] font-semibold py-3 border-t-2 border-b-2">Total Credit Hour: {totalHour} hr</h2>
+                <h2 className="text-[18px] font-semibold pt-3">Total Price: {cost} USD</h2>
+                </div>
             </div>
         </div>
     );
