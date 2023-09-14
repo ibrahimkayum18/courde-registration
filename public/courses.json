@@ -3,7 +3,7 @@
         "id": 1,
         "name": "intro to programming",
         "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
-        "price": 99.99,
+        "price": 99,
         "credit_hours": 3,
         "img": "https://i.ibb.co/QHjVmq8/Rectangle-2.png"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "name": "advanced mathematics",
         "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
-        "price": 149.99,
+        "price": 149,
         "credit_hours": 4,
         "img": "https://i.ibb.co/RQhmFnv/Rectangle-2-1.png"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "name": "english composition",
         "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
-        "price": 79.99,
+        "price": 80,
         "credit_hours": 3,
         "img": "https://i.ibb.co/r4mL3NL/Rectangle-2-2.png"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "name": "history of art",
         "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
-        "price": 119.99,
+        "price": 119,
         "credit_hours": 3,
         "img": "https://i.ibb.co/W5GQvtd/Rectangle-2-3.png"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "name": "chemistry fundamentals",
         "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
-        "price": 129.99,
+        "price": 130,
         "credit_hours": 4,
         "img": "https://i.ibb.co/W6QH718/Rectangle-2-4.png"
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "name": "web development basics",
         "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
-        "price": 89.99,
+        "price": 99,
         "credit_hours": 3,
         "img": "https://i.ibb.co/QjCggGn/Rectangle-2-5.png"
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "name": "business management",
         "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
-        "price": 159.99,
+        "price": 159,
         "credit_hours": 4,
         "img": "https://i.ibb.co/znXsQC8/Rectangle-2-6.png"
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "name": "digital marketing",
         "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
-        "price": 119.99,
+        "price": 119,
         "credit_hours": 3,
         "img": "https://i.ibb.co/3Rp4RWv/Rectangle-3.png"
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "name": "physics for beginners",
         "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
-        "price": 99.99,
+        "price": 99,
         "credit_hours": 3,
         "img": "https://i.ibb.co/jLjpw1n/Rectangle-3-1.png"
     }

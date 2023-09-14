@@ -1,7 +1,7 @@
 // import { BsBook } from 'react-icons/fa6';
 
 
-const Course = ({course}) => {
+const Course = ({course, handleSelect}) => {
     // console.log(course);
     const { name, details, price, credit_hours, img } = course;
     // console.log(img);
@@ -18,7 +18,7 @@ const Course = ({course}) => {
                 <p> Credit: {credit_hours}hr</p>
             </div>
             </div>
-            <button className="py-2 w-full bg-blue-700 text-white font-bold rounded-lg text-[1.25rem]">Select</button>
+            <button onClick={() => handleSelect(course)} className="py-2 w-full bg-blue-700 text-white font-bold rounded-lg text-[1.25rem]">Select</button>
         </div>
     );
 };
