@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "intro to programming",
-        "details": "basic programming concepts",
+        "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
         "price": 99.99,
         "credit_hours": 3,
-        "img": "https://ibb.co/FYq17fs"
+        "img": "https://i.ibb.co/QHjVmq8/Rectangle-2.png"
     },
     {
         "id": 2,
         "name": "advanced mathematics",
-        "details": "higher-level math topics",
+        "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
         "price": 149.99,
         "credit_hours": 4,
-        "img": "https://ibb.co/QY8RgBb"
+        "img": "https://i.ibb.co/RQhmFnv/Rectangle-2-1.png"
     },
     {
         "id": 3,
         "name": "english composition",
-        "details": "improve writing skills",
+        "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
         "price": 79.99,
         "credit_hours": 3,
-        "img": "https://ibb.co/4P7D23D"
+        "img": "https://i.ibb.co/r4mL3NL/Rectangle-2-2.png"
     },
     {
         "id": 4,
         "name": "history of art",
-        "details": "exploring art through the ages",
+        "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
         "price": 119.99,
         "credit_hours": 3,
-        "img": "https://ibb.co/C8mqK2X"
+        "img": "https://i.ibb.co/W5GQvtd/Rectangle-2-3.png"
     },
     {
         "id": 5,
         "name": "chemistry fundamentals",
-        "details": "basic chemistry principles",
+        "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
         "price": 129.99,
         "credit_hours": 4,
-        "img": "https://ibb.co/Xb9W6T0"
+        "img": "https://i.ibb.co/W6QH718/Rectangle-2-4.png"
     },
     {
         "id": 6,
         "name": "web development basics",
-        "details": "building websites from scratch",
+        "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
         "price": 89.99,
         "credit_hours": 3,
-        "img": "https://ibb.co/jZWNNFG"
+        "img": "https://i.ibb.co/QjCggGn/Rectangle-2-5.png"
     },
     {
         "id": 7,
         "name": "business management",
-        "details": "fundamentals of business administration",
+        "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
         "price": 159.99,
         "credit_hours": 4,
-        "img": "https://ibb.co/r7xkFqb"
+        "img": "https://i.ibb.co/znXsQC8/Rectangle-2-6.png"
     },
     {
         "id": 8,
         "name": "digital marketing",
-        "details": "strategies for online promotion",
+        "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
         "price": 119.99,
         "credit_hours": 3,
-        "img": "https://ibb.co/J3vm32q"
+        "img": "https://i.ibb.co/3Rp4RWv/Rectangle-3.png"
     },
     {
         "id": 9,
         "name": "physics for beginners",
-        "details": "basic principles of physics",
+        "details": "This certification validates your foundational knowledge of cloud concepts in general and Azure.",
         "price": 99.99,
         "credit_hours": 3,
-        "img": "https://ibb.co/rZXWp1D"
+        "img": "https://i.ibb.co/jLjpw1n/Rectangle-3-1.png"
     }
 ]
