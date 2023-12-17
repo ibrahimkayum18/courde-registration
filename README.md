@@ -6,6 +6,7 @@
 - You can select multiple different courses 
 - You can see the total budget of the courses you selected
 - You can't select any course after credit hours exceed 20 hours or remaining credit hours below 0 hours.
+- Live link: jumpy-bulb.surge.sh
 
 
 ## Implementation
